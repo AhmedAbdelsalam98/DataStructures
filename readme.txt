@@ -1,0 +1,1 @@
+Order() sorts by names alphabetically, if names are equal then it sorts by grades from highest to lowest
